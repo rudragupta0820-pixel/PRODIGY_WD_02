@@ -59,8 +59,3 @@ Through this project, I gained practical experience in:
 * Event handling
 * Responsive web design
 * UI/UX development principles
-
----
-
-
-This project is created for educational and internship learning purposes.
