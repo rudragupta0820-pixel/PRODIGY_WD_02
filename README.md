@@ -62,28 +62,5 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📸 Screenshot
-
-Add a screenshot of your project here after uploading it to GitHub.
-
----
-
-## 🔮 Future Improvements
-
-* Dark/Light mode support
-* Export lap times
-* Millisecond precision enhancements
-* Keyboard shortcuts
-* Progressive Web App (PWA) support
-
----
-
-## 👨‍💻 Author
-
-Developed by Rudra
-
----
-
-## 📄 License
 
 This project is created for educational and internship learning purposes.
